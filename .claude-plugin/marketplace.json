@@ -14,15 +14,15 @@
         "source": "url",
         "url": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch.git"
       },
-      "description": "AI-assisted computational research with wiki knowledge base, LaTeX paper scaffolding, Wolfram paclet development and publishing, notebook generation, guided tours, Wolfram ecosystem search, and revision workflow.",
-      "version": "3.0.2",
+      "description": "AI-assisted computational research with wiki knowledge base, LaTeX paper scaffolding, Wolfram paclet development and publishing, notebook generation, guided tours, Wolfram ecosystem search, pure-math project scaffolding with MathWorld/nLab/OEIS/DLMF/Wikipedia search, BibTeX from arXiv/DOI, Lean/Mathlib formalization bridge, and revision workflow.",
+      "version": "3.1.0",
       "author": {
         "name": "Pavel Hajek",
         "email": "p135246@gmail.com"
       },
       "homepage": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch",
       "license": "MIT",
-      "keywords": ["wolfram", "mathematica", "research", "notebook", "wiki", "knowledge-base", "tour", "paclet", "latex"],
+      "keywords": ["wolfram", "mathematica", "research", "notebook", "wiki", "knowledge-base", "tour", "paclet", "latex", "math", "lean", "mathlib", "mathworld", "nlab", "oeis", "dlmf", "bibtex"],
       "category": "research"
     }
   ]
