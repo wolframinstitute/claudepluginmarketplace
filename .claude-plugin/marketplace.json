@@ -14,15 +14,15 @@
         "source": "url",
         "url": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch.git"
       },
-      "description": "AI-assisted computational research with license-aware MCP-first Wolfram execution, wiki knowledge base, LaTeX/Typst paper scaffolding and notes, Wolfram paclet development and publishing, notebook generation, guided tours, Wolfram ecosystem search, pure-math project scaffolding with MathWorld/nLab/OEIS/DLMF/Wikipedia search, BibTeX from arXiv/DOI, Lean/Mathlib formalization bridge, multi-session work tracking (spec/tasks/progress), Conventional-Commits enforcement via scaffolded git hooks, optional prompt-provenance tracking for generated artifacts, and revision workflow.",
-      "version": "3.8.0",
+      "description": "AI-assisted computational research with license-aware MCP-first Wolfram execution, wiki knowledge base, LaTeX/Typst paper scaffolding, Wolfram paclet development and publishing, notebook generation, guided tours, Wolfram ecosystem search, pure-math project scaffolding with MathWorld/nLab/OEIS/DLMF/Wikipedia search, BibTeX from arXiv/DOI, Lean/Mathlib formalization bridge, multi-session work tracking (spec/tasks/progress), Conventional-Commits enforcement via scaffolded git hooks, optional prompt-provenance tracking for generated artifacts, an optional cited scientific journal (def/thm/rem) in LaTeX/Typst, and revision workflow.",
+      "version": "3.9.0",
       "author": {
         "name": "Pavel Hajek",
         "email": "p135246@gmail.com"
       },
       "homepage": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch",
       "license": "MIT",
-      "keywords": ["wolfram", "mathematica", "research", "notebook", "wiki", "knowledge-base", "tour", "paclet", "latex", "typst", "math", "lean", "mathlib", "mathworld", "nlab", "oeis", "dlmf", "bibtex", "workflow", "sessions", "provenance", "git-hooks", "conventional-commits"],
+      "keywords": ["wolfram", "mathematica", "research", "notebook", "wiki", "knowledge-base", "tour", "paclet", "latex", "typst", "math", "lean", "mathlib", "mathworld", "nlab", "oeis", "dlmf", "bibtex", "workflow", "sessions", "provenance", "journal", "git-hooks", "conventional-commits"],
       "category": "research"
     }
   ]
